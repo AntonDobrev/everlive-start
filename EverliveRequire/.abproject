@@ -1,0 +1,37 @@
+{
+  "ProjectName": "EverliveRequire",
+  "ProjectGuid": "75b39257-371c-4fb1-b4b8-0c739430a8ef",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.EverliveRequire",
+  "DisplayName": "EverliveRequire",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{25254b14-29da-467d-aac9-436d64053c79}",
+  "WP8ProductID": "{51fb40ac-ed90-4acd-b2a6-b1a5b4222d31}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
