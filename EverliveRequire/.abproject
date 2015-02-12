@@ -2,7 +2,7 @@
   "ProjectName": "EverliveRequire",
   "ProjectGuid": "75b39257-371c-4fb1-b4b8-0c739430a8ef",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.EverliveRequire",
+  "AppIdentifier": "com.telerik.PushNotificationApp",
   "DisplayName": "EverliveRequire",
   "Author": "",
   "Description": "",
@@ -33,5 +33,26 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.battery-status",
+    "org.apache.cordova.camera",
+    "org.apache.cordova.media-capture",
+    "org.apache.cordova.contacts",
+    "org.apache.cordova.device",
+    "org.apache.cordova.device-motion",
+    "org.apache.cordova.device-orientation",
+    "org.apache.cordova.file",
+    "org.apache.cordova.file-transfer",
+    "org.apache.cordova.geolocation",
+    "org.apache.cordova.globalization",
+    "org.apache.cordova.inappbrowser",
+    "org.apache.cordova.media",
+    "org.apache.cordova.network-information",
+    "org.apache.cordova.dialogs",
+    "com.phonegap.plugins.PushPlugin",
+    "org.apache.cordova.splashscreen",
+    "org.apache.cordova.statusbar",
+    "org.apache.cordova.vibration"
   ]
 }
